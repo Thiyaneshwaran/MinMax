@@ -1,5 +1,5 @@
 import java.io.*;
-class GFG {
+class minmax {
 static int minimax(int depth, int nodeIndex, boolean isMax,
 			int scores[], int h)
 {
